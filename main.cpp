@@ -1,3 +1,8 @@
+/*
+By Soleil Vivero
+09/30/22
+*/
+
 #include "functions.cpp"
 #include <iostream>
 #include <fstream>

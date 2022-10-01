@@ -1,3 +1,7 @@
+/*
+By Soleil Vivero
+09/30/22
+*/
 #include <iostream>
 
 uint64_t addHex(uint64_t hex1, uint64_t hex2) {
